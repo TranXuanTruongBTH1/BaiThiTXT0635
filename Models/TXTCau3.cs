@@ -11,5 +11,6 @@ namespace BaiThiTXT.Models
         public string? TenLop {get;set;}
         [Display(Name ="Khóa Học")]
         public int? KhoaHoc {get;set;}
+        
     }
 }

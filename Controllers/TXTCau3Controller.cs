@@ -13,6 +13,7 @@ namespace BaiThiTXT.Controllers
     {
         private readonly ApplicationDbContext _context;
 
+
         public TXTCau3Controller(ApplicationDbContext context)
         {
             _context = context;
