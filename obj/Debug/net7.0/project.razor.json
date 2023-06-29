@@ -18645,6 +18645,21 @@
   "RootNamespace": "BaiThiTXT",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\LAPTOP THANH DU\\Desktop\\BaiThiTXT\\BaiThiTXT\\Views\\TXTCau3\\Delete.cshtml",
+      "TargetPath": "Views\\TXTCau3\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\LAPTOP THANH DU\\Desktop\\BaiThiTXT\\BaiThiTXT\\Views\\TXTCau3\\Details.cshtml",
+      "TargetPath": "Views\\TXTCau3\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\LAPTOP THANH DU\\Desktop\\BaiThiTXT\\BaiThiTXT\\Views\\TXTCau3\\Index.cshtml",
+      "TargetPath": "Views\\TXTCau3\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\LAPTOP THANH DU\\Desktop\\BaiThiTXT\\BaiThiTXT\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -18657,6 +18672,11 @@
     {
       "FilePath": "c:\\Users\\LAPTOP THANH DU\\Desktop\\BaiThiTXT\\BaiThiTXT\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\LAPTOP THANH DU\\Desktop\\BaiThiTXT\\BaiThiTXT\\Views\\TXTCau3\\Edit.cshtml",
+      "TargetPath": "Views\\TXTCau3\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18677,6 +18697,11 @@
     {
       "FilePath": "c:\\Users\\LAPTOP THANH DU\\Desktop\\BaiThiTXT\\BaiThiTXT\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\LAPTOP THANH DU\\Desktop\\BaiThiTXT\\BaiThiTXT\\Views\\TXTCau3\\Create.cshtml",
+      "TargetPath": "Views\\TXTCau3\\Create.cshtml",
       "FileKind": "mvc"
     }
   ],
